@@ -1,6 +1,5 @@
 package com.vabp.proposalapp.mapper;
 
-
 import com.vabp.proposalapp.dto.ProposalRequestDto;
 import com.vabp.proposalapp.dto.ProposalResponseDto;
 import com.vabp.proposalapp.entity.Proposal;
